@@ -1,7 +1,5 @@
 # PythonPracticeTips
 
-If you'd like to download a PDF version of this Python Cheat Sheet, you can get it [here](https://zerotomastery.io/courses/python/cheatsheet/?utm_source=github&utm_medium=ztm-python-cheat-sheet)!
-
 Contents
 --------
 **Python Types:** **[`Numbers`](#numbers)__,__[`Strings`](#strings)__,__[`Boolean`](#boolean)__,__[`Lists`](#lists)__,__[`Dictionaries`](#dictionaries)__,__ [`Tuples`](#tuples)__,__[`Sets`](#sets)__,__[`None`](#none)**  
